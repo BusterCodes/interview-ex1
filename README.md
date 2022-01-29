@@ -1,3 +1,10 @@
+# Interview Question - Ex. 1
+
+Pull data from provided endpoint. Filter through data and render filtered results with matching text of input search term highlighted.
+<br>
+<br>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
